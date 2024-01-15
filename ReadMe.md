@@ -26,12 +26,12 @@ Each folder also contains necessary files to run the simulation using ABAQUS. To
 
 ### Example 1: surfaces of revolution
 
-![Example 1](https://github.com/Jeff97/electro-growth-UEL-subroutine/blob/main/Example1.jpg)
+![Example 1](https://github.com/Jeff97/growth-of-shell/blob/main/Example1.jpg)
 
 ### Example 2: the helical surface (Cereus Forbesii Spiralis)
 
-![Example 2](https://github.com/Jeff97/electro-growth-UEL-subroutine/blob/main/MappingHelical.jpg)
+![Example 2](https://github.com/Jeff97/growth-of-shell/blob/main/MappingHelical.jpg)
 
 ### Example 3: helical rod (tendril of pumpkin)
 
-![Example 3](https://github.com/Jeff97/electro-growth-UEL-subroutine/blob/main/MappingRod.jpg)
+![Example 3](https://github.com/Jeff97/growth-of-shell/blob/main/MappingRod.jpg)
