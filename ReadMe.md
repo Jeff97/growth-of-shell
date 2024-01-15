@@ -1,7 +1,7 @@
 Here, we provide some supplementary files for the paper[1]. 
 
 - The 'Movie 1' shows the simulated deformation process of different samples. To download the video, one can click the item, then click "View raw". 
-- Each 'Input files and UMAT' folder contains ABAQUS input files and the corresponding FORTRAN files (UMAT subroutines). The results presented in the paper can be duplicated by these files. 
+- The 'Input files and UMAT' folder contains ABAQUS input files and the corresponding FORTRAN files (UMAT subroutines). The results presented in the paper can be duplicated by these files. 
 
 [1] Li, Z., Wang, J., Hossain, M., & Kadapa, C. (2023). A general theoretical scheme for shape-programming of incompressible hyperelastic shells through differential growth. *International Journal of Solids and Structures*, *265–266*, 112128. https://doi.org/10.1016/j.ijsolstr.2023.112128
 
